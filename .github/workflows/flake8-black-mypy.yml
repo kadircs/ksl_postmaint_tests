@@ -1,4 +1,4 @@
-rname: Python Code Quality
+name: Python Code Quality
 
 on:
   push:
